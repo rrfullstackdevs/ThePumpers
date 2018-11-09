@@ -1,8 +1,8 @@
 # ThePumpers
 Membros:
-Tarlison Sander
-Hygo Sousa
-João Barreto
+Tarlison Sander,
+Hygo Sousa,
+João Barreto.
 
 Projeto para detecção de fake news do hackathon- hacking the fake news. Códigos e documentação estarão nesse repositório.
 O maior aprendizado foi a criação de uma plataforma web usando django além de aprender a usar machine learnig, ao menos o básico.
